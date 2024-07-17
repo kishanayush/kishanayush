@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hello, I'm Ayush Kishan 👋
 
-<!--
-**kishanayush/kishanayush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I am a passionate Data Analyst with expertise in Python, R-language, Advanced Excel, Qlikview, Power BI, Data visualization, Tableau, Dashboarding, Data Analysis, and Lean Six Sigma Green Belt methodologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Currently learning: Different Modeling methods training and testing
+- 💼 Open to job opportunities in: Data Analytics, Business Intelligence, Marketing Analytics, and Product Management.
+
+## Skills
+
+- **Programming Languages:** Python, R
+- **Data Analysis:** Pandas, NumPy, SQL
+- **Visualization:** Matplotlib, Seaborn, ggplot2, Tableau, Power BI
+- **Tools & Technologies:** Excel (Advanced), Qlikview, Power BI, Tableau
+
+## Portfolio
+
+### Projects
+
+
+### Visualizations
+
+## Contact Me
+
+- LinkedIn: [Ayush Kishan](https://www.linkedin.com/in/ayushkishan)
+- Email: kishan.ayush06@gmail.com
+
+Feel free to reach out for collaboration, job opportunities, or just to connect! Let's create something amazing together.
